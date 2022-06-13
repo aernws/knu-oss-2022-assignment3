@@ -1,15 +1,15 @@
-###post new number
+### post new number
 
-##curl -X POST “http://localhost:8080/numbers?new=123”
+## curl -X POST “http://localhost:8080/numbers?new=123”
 
-###get average
+### get average
 
-##curl -X GET “http://localhost:8080/numbers/average”
+## curl -X GET “http://localhost:8080/numbers/average”
 
-###get sum
+### get sum
 
-##curl -X GET “http://localhost:8080/numbers/sum”
+## curl -X GET “http://localhost:8080/numbers/sum”
 
-###get standard deviation
+### get standard deviation
 
-##curl -X GET “http://localhost:8080/numbers/stddev”
+## curl -X GET “http://localhost:8080/numbers/stddev”
